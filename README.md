@@ -17,6 +17,7 @@ Unity 2D arcade shooter inspired by classic space shooter games.
 - 2D Physics
 - Game Objects
 - Prefabs
+- Collision Detection
 
 ## Course Context
 
